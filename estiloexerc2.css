@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(220, 230, 230);
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(29, 29, 179);
+    font-style: italic;
+}
+
+div {
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin: 50px 50px 50px 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+.cap1 {
+    border: solid red;
+}
+
+.cap2 {
+    border: dashed rgb(68, 0, 255);
+}
+
+.cap3 {
+    border: dotted rgb(26, 141, 83);
+}
+
+.cap4 {
+    border: double rgb(255, 0, 157);
+}
+
+.cap5 {
+    border: groove rgb(1, 0, 3);
+}
+
+.cap6 {
+    border: inset rgb(255, 145, 0);
+}
+
+.cap7 {
+    border: dashed rgb(255, 0, 157);
+}
+
+.cap8 {
+    border: outset rgb(150, 24, 133);
+}
+
+.cap9 {
+    border: solid rgb(255, 145, 0);
+}
+
+.cap10 {
+    border: dotted red;
+}
+
+.cap11 {
+    border: outset rgb(68, 0, 255);
+}
+
+.cap12 {
+    border: dashed rgb(26, 141, 83);
+}
+
+.cap13 {
+    border: solid rgb(255, 251, 0);
+}
+
+.cap14 {
+    border: dashed rgb(68, 0, 255);
+}
+
+.cap15 {
+    border: dotted rgb(6, 201, 250);
+}
+
+.cap16 {
+    border: double rgb(145, 29, 126);
+}
+
+.cap17 {
+    border: groove rgb(51, 201, 101);
+}
+
+.cap18 {
+    border: inset rgb(255, 145, 0);
+}
+
+.cap19 {
+    border: double rgb(255, 0, 157);
+}
+
+.cap20 {
+    border: groove rgb(1, 0, 3);
+}
+
+.cap21 {
+    border: inset rgb(103, 248, 99);
+}
+
+.cap22 {
+    border: dashed rgb(255, 0, 157);
+}
+
+.cap23 {
+    border: outset rgb(150, 24, 133);
+}
+
+.cap24 {
+    border: solid rgb(207, 195, 23);
+}
+
+.cap25 {
+    border: dashed rgb(56, 3, 45);
+}
+
+.cap26 {
+    border: outset rgb(40, 42, 177);
+}
+
+.cap27 {
+    border: double rgb(165, 62, 62);
+}
